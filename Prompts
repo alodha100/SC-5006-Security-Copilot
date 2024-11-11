@@ -1,0 +1,20 @@
+Incident Response:
+	• "Investigate this security incident: [Incident ID]"
+	• "Analyze this suspicious log file: [Log File]"
+	• "Identify potential threats from this network traffic: [Network Traffic]"
+Threat Hunting:
+	• "Find unusual activity in our network logs"
+	• "Identify potential insider threats"
+	• "Detect malicious activity from this IP address: [IP Address]"
+Vulnerability Assessment:
+	• "Assess the risk of this vulnerability: [Vulnerability ID]"
+	• "Prioritize vulnerabilities based on severity and impact"
+	• "Generate a remediation plan for these vulnerabilities"
+Security Policy and Compliance:
+	• "Create a security policy for remote work"
+	• "Assess our compliance with GDPR regulations"
+	• "Identify gaps in our security controls"
+Security Awareness and Training:
+	• "Create a phishing simulation campaign"
+	• "Develop a security awareness training program"
+	• "Generate a security awareness newsletter"
