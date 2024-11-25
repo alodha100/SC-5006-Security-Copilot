@@ -1,0 +1,20 @@
+1. Open AI 
+2. Gen AI 
+3. encoder, decoder, tokenization, vectorization, embeddings and attention 
+4. Different copilot options in Microsoft 
+
+--------------------
+
+5. How to create copilot for security - CFS 
+6. SCU 
+7. Responsible AI 
+8. How CFS works - Pre-processing and post processing 
+9. Plugins - a. Microsoft b. Third party c. Custom 
+10. How to use your own plugins 
+11. How to upload your own file - RAG model or grounding 
+12. Prompts 
+13. Prompt books 
+14. Session 
+15. Roles - Owner and contributor 
+16. Prompting - GCES - Goals, Context, Expectation and Source 
+17. Embedded experience - In Defender XDR, Intune, Entra, Defender for cloud, Purview
